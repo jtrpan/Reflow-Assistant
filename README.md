@@ -1,7 +1,7 @@
 # Reflow-Assistant
 Reflow soldering oven controller with adjustable soldering parameters.
 
-Learn more about AES-256 bit encryption [here](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard).
+Learn more about reflow soldering [here](https://en.wikipedia.org/wiki/Reflow_soldering).
 
 ## Getting Started
 
